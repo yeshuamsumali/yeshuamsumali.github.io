@@ -82,6 +82,10 @@
     margin-right: 30px;
   }
 
+.prof-img {
+    filter: drop-shadow(5px 5px 5px gray);
+  }
+
   .graphics-img {
     width: 25%;
     float: right;
